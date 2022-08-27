@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 125,
-    "timeWeek": 135,
-    "timeMonth": 106,
+    "timeDay": 116,
+    "timeWeek": 99,
+    "timeMonth": 105,
     "timeYear": 103,
     "dailyMinutesDown": {}
   },
@@ -23,14 +23,14 @@
     "icon": "https://favicons.githubusercontent.com/www.githubstatus.com",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "95.22%",
+    "uptime": "98.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.44%",
     "uptimeMonth": "96.99%",
     "uptimeYear": "98.01%",
     "time": 221,
-    "timeDay": 289,
-    "timeWeek": 243,
+    "timeDay": 192,
+    "timeWeek": 231,
     "timeMonth": 248,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -111,8 +111,7 @@
       "2021-09-15": 70,
       "2021-09-07": 39,
       "2021-09-02": 338,
-      "2021-08-28": 65,
-      "2021-08-27": 90
+      "2021-08-28": 65
     }
   },
   {
@@ -121,15 +120,15 @@
     "icon": "https://favicons.githubusercontent.com/status.slack.com",
     "slug": "slack",
     "status": "up",
-    "uptime": "90.53%",
-    "uptimeDay": "98.92%",
+    "uptime": "90.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "88.65%",
-    "uptimeMonth": "95.75%",
+    "uptimeMonth": "96.00%",
     "uptimeYear": "90.52%",
     "time": 116,
-    "timeDay": 77,
-    "timeWeek": 104,
-    "timeMonth": 101,
+    "timeDay": 86,
+    "timeWeek": 101,
+    "timeMonth": 100,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2022-08-25": 16,
@@ -245,8 +244,7 @@
       "2021-09-07": 86,
       "2021-09-03": 102,
       "2021-09-02": 269,
-      "2021-08-31": 46,
-      "2021-08-27": 109
+      "2021-08-31": 46
     }
   }
 ]
