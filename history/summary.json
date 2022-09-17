@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 85,
+    "timeDay": 91,
     "timeWeek": 134,
     "timeMonth": 120,
-    "timeYear": 103,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -25,14 +25,14 @@
     "status": "up",
     "uptime": "97.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "96.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "97.37%",
     "uptimeYear": "97.99%",
     "time": 225,
-    "timeDay": 359,
-    "timeWeek": 297,
-    "timeMonth": 270,
-    "timeYear": 229,
+    "timeDay": 158,
+    "timeWeek": 291,
+    "timeMonth": 266,
+    "timeYear": 228,
     "dailyMinutesDown": {
       "2022-09-13": 58,
       "2022-09-09": 99,
@@ -121,15 +121,15 @@
     "icon": "https://favicons.githubusercontent.com/status.slack.com",
     "slug": "slack",
     "status": "up",
-    "uptime": "89.51%",
-    "uptimeDay": "97.57%",
+    "uptime": "89.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "69.37%",
-    "uptimeMonth": "75.90%",
+    "uptimeMonth": "76.18%",
     "uptimeYear": "88.91%",
     "time": 114,
-    "timeDay": 69,
-    "timeWeek": 84,
-    "timeMonth": 94,
+    "timeDay": 47,
+    "timeWeek": 86,
+    "timeMonth": 92,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2022-09-15": 58,
@@ -249,8 +249,7 @@
       "2021-10-04": 24,
       "2021-10-01": 1019,
       "2021-09-30": 442,
-      "2021-09-21": 202,
-      "2021-09-17": 26
+      "2021-09-21": 202
     }
   }
 ]
