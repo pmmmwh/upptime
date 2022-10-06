@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 83,
+    "timeDay": 90,
     "timeWeek": 140,
-    "timeMonth": 125,
-    "timeYear": 102,
+    "timeMonth": 124,
+    "timeYear": 101,
     "dailyMinutesDown": {}
   },
   {
@@ -24,14 +24,14 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "97.96%",
-    "uptimeDay": "76.75%",
-    "uptimeWeek": "95.63%",
+    "uptimeDay": "81.50%",
+    "uptimeWeek": "96.25%",
     "uptimeMonth": "96.77%",
     "uptimeYear": "97.96%",
     "time": 227,
-    "timeDay": 248,
-    "timeWeek": 247,
-    "timeMonth": 267,
+    "timeDay": 273,
+    "timeWeek": 238,
+    "timeMonth": 264,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2022-10-05": 266,
@@ -111,8 +111,7 @@
       "2021-10-21": 52,
       "2021-10-18": 20,
       "2021-10-13": 166,
-      "2021-10-09": 173,
-      "2021-10-06": 42
+      "2021-10-09": 173
     }
   },
   {
@@ -124,12 +123,12 @@
     "uptime": "89.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.21%",
+    "uptimeMonth": "75.11%",
     "uptimeYear": "88.60%",
     "time": 114,
     "timeDay": 41,
     "timeWeek": 116,
-    "timeMonth": 104,
+    "timeMonth": 102,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2022-09-27": 427,
