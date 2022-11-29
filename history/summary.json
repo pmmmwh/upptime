@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "uptimeDay": "98.75%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "98.48%",
@@ -132,18 +132,19 @@
     "url": "https://status.slack.com/api/v2.0.0/current",
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
-    "status": "up",
-    "uptime": "90.83%",
-    "uptimeDay": "100.00%",
+    "status": "degraded",
+    "uptime": "91.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "85.87%",
     "uptimeMonth": "96.11%",
-    "uptimeYear": "88.42%",
+    "uptimeYear": "88.63%",
     "time": 110,
-    "timeDay": 96,
+    "timeDay": 82,
     "timeWeek": 77,
     "timeMonth": 79,
     "timeYear": 106,
     "dailyMinutesDown": {
+      "2022-11-29": 0,
       "2022-11-25": 233,
       "2022-11-24": 1191,
       "2022-11-14": 64,
@@ -259,8 +260,7 @@
       "2021-12-10": 1440,
       "2021-12-09": 1440,
       "2021-12-08": 1214,
-      "2021-12-07": 548,
-      "2021-12-01": 1120
+      "2021-12-07": 548
     }
   }
 ]
