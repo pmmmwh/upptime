@@ -132,11 +132,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "up",
-    "uptime": "91.94%",
+    "uptime": "91.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.39%",
-    "uptimeYear": "89.50%",
+    "uptimeYear": "89.51%",
     "time": 110,
     "timeDay": 44,
     "timeWeek": 71,
@@ -254,8 +254,7 @@
       "2022-01-14": 16,
       "2022-01-13": 828,
       "2022-01-10": 1058,
-      "2022-01-09": 1440,
-      "2022-01-08": 1440
+      "2022-01-09": 1440
     }
   }
 ]
