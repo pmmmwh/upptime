@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 76,
-    "timeWeek": 77,
+    "timeDay": 89,
+    "timeWeek": 81,
     "timeMonth": 103,
     "timeYear": 98,
     "dailyMinutesDown": {}
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.67%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.41%",
     "uptimeMonth": "95.62%",
     "uptimeYear": "98.09%",
-    "time": 239,
-    "timeDay": 358,
-    "timeWeek": 251,
-    "timeMonth": 251,
+    "time": 238,
+    "timeDay": 389,
+    "timeWeek": 262,
+    "timeMonth": 256,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-02-01": 39,
@@ -128,14 +128,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "up",
-    "uptime": "93.59%",
+    "uptime": "93.60%",
     "uptimeDay": "95.16%",
     "uptimeWeek": "98.11%",
     "uptimeMonth": "96.11%",
     "uptimeYear": "90.76%",
-    "time": 107,
-    "timeDay": 86,
-    "timeWeek": 109,
+    "time": 106,
+    "timeDay": 65,
+    "timeWeek": 107,
     "timeMonth": 101,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -244,8 +244,7 @@
       "2022-02-15": 29,
       "2022-02-14": 36,
       "2022-02-09": 407,
-      "2022-02-08": 102,
-      "2022-02-04": 690
+      "2022-02-08": 102
     }
   }
 ]
