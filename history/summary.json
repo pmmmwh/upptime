@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 76,
-    "timeWeek": 116,
-    "timeMonth": 88,
+    "timeDay": 64,
+    "timeWeek": 113,
+    "timeMonth": 87,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "95.97%",
     "uptimeYear": "97.99%",
     "time": 234,
-    "timeDay": 204,
-    "timeWeek": 207,
-    "timeMonth": 210,
+    "timeDay": 280,
+    "timeWeek": 213,
+    "timeMonth": 209,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2023-03-01": 121,
@@ -126,15 +126,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "up",
-    "uptime": "93.99%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "87.54%",
-    "uptimeMonth": "92.21%",
+    "uptime": "94.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "92.29%",
     "uptimeYear": "90.88%",
     "time": 106,
-    "timeDay": 142,
-    "timeWeek": 112,
-    "timeMonth": 105,
+    "timeDay": 263,
+    "timeWeek": 114,
+    "timeMonth": 110,
     "timeYear": 100,
     "dailyMinutesDown": {
       "2023-03-02": 34,
@@ -240,8 +240,7 @@
       "2022-04-07": 46,
       "2022-03-24": 1298,
       "2022-03-23": 1434,
-      "2022-03-09": 444,
-      "2022-03-04": 383
+      "2022-03-09": 444
     }
   }
 ]
