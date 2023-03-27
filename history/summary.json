@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 162,
-    "timeWeek": 90,
-    "timeMonth": 109,
+    "timeDay": 63,
+    "timeWeek": 87,
+    "timeMonth": 108,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "98.09%",
+    "uptime": "98.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "98.08%",
     "time": 237,
-    "timeDay": 294,
-    "timeWeek": 264,
+    "timeDay": 254,
+    "timeWeek": 261,
     "timeMonth": 231,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-03-26": 8,
       "2023-03-24": 35,
       "2023-03-23": 65,
       "2023-03-22": 140,
@@ -117,7 +116,7 @@
       "2022-06-29": 42,
       "2022-06-22": 59,
       "2022-06-21": 237,
-      "2022-06-20": 138
+      "2022-06-20": 249
     }
   },
   {
@@ -132,8 +131,8 @@
     "uptimeMonth": "91.13%",
     "uptimeYear": "90.90%",
     "time": 103,
-    "timeDay": 111,
-    "timeWeek": 117,
+    "timeDay": 35,
+    "timeWeek": 103,
     "timeMonth": 101,
     "timeYear": 100,
     "dailyMinutesDown": {
