@@ -120,16 +120,16 @@
     "url": "https://status.slack.com/api/v2.0.0/current",
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
-    "status": "up",
-    "uptime": "94.94%",
-    "uptimeDay": "20.56%",
+    "status": "degraded",
+    "uptime": "94.95%",
+    "uptimeDay": "40.21%",
     "uptimeWeek": "83.38%",
     "uptimeMonth": "95.04%",
-    "uptimeYear": "91.19%",
-    "time": 100,
-    "timeDay": 79,
-    "timeWeek": 74,
-    "timeMonth": 103,
+    "uptimeYear": "91.20%",
+    "time": 99,
+    "timeDay": 68,
+    "timeWeek": 71,
+    "timeMonth": 101,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2023-05-23": 82,
@@ -237,8 +237,7 @@
       "2022-06-13": 111,
       "2022-06-11": 47,
       "2022-06-08": 986,
-      "2022-06-07": 275,
-      "2022-06-04": 55
+      "2022-06-07": 275
     }
   }
 ]
