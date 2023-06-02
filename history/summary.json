@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 80,
-    "timeWeek": 118,
-    "timeMonth": 108,
+    "timeDay": 62,
+    "timeWeek": 114,
+    "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "95.67%",
-    "uptimeYear": "98.06%",
+    "uptime": "98.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "95.68%",
+    "uptimeYear": "98.02%",
     "time": 238,
-    "timeDay": 222,
-    "timeWeek": 186,
-    "timeMonth": 221,
+    "timeDay": 268,
+    "timeWeek": 198,
+    "timeMonth": 223,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-06-02": 8,
       "2023-05-27": 16,
       "2023-05-17": 146,
       "2023-05-11": 361,
@@ -112,7 +111,8 @@
       "2022-10-05": 266,
       "2022-10-04": 111,
       "2022-09-28": 142,
-      "2022-09-27": 36
+      "2022-09-27": 36,
+      "2022-09-22": 200
     }
   },
   {
@@ -120,18 +120,19 @@
     "url": "https://status.slack.com/api/v2.0.0/current",
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
-    "status": "up",
-    "uptime": "94.80%",
-    "uptimeDay": "100.00%",
+    "status": "degraded",
+    "uptime": "94.81%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.12%",
     "uptimeMonth": "88.07%",
-    "uptimeYear": "90.80%",
+    "uptimeYear": "90.81%",
     "time": 98,
-    "timeDay": 42,
-    "timeWeek": 62,
+    "timeDay": 61,
+    "timeWeek": 64,
     "timeMonth": 74,
     "timeYear": 98,
     "dailyMinutesDown": {
+      "2023-06-02": 0,
       "2023-06-01": 35,
       "2023-05-31": 73,
       "2023-05-30": 283,
@@ -237,8 +238,7 @@
       "2022-06-29": 1064,
       "2022-06-28": 652,
       "2022-06-23": 330,
-      "2022-06-22": 61,
-      "2022-06-15": 82
+      "2022-06-22": 61
     }
   }
 ]
