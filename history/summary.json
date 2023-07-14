@@ -22,18 +22,19 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "up",
-    "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.71%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "97.22%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.04%",
     "time": 246,
     "timeDay": 123,
-    "timeWeek": 283,
+    "timeWeek": 279,
     "timeMonth": 327,
     "timeYear": 254,
     "dailyMinutesDown": {
+      "2023-07-14": 0,
       "2023-07-12": 38,
       "2023-07-07": 92,
       "2023-07-05": 341,
@@ -112,7 +113,7 @@
       "2022-11-03": 58,
       "2022-11-01": 105,
       "2022-10-27": 101,
-      "2022-10-26": 194
+      "2022-10-26": 51
     }
   },
   {
@@ -121,7 +122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "up",
-    "uptime": "94.72%",
+    "uptime": "94.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "88.04%",
