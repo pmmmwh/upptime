@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 162,
-    "timeWeek": 88,
-    "timeMonth": 81,
-    "timeYear": 107,
-    "dailyMinutesDown": {}
+    "time": 102,
+    "timeDay": 358,
+    "timeWeek": 147,
+    "timeMonth": 96,
+    "timeYear": 108,
+    "dailyMinutesDown": {
+      "2023-07-17": 0
+    }
   },
   {
     "name": "GitHub",
@@ -121,7 +123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "91.04%",
