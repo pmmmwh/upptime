@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
     "timeDay": 349,
     "timeWeek": 170,
     "timeMonth": 141,
     "timeYear": 114,
-    "dailyMinutesDown": {
-      "2023-09-28": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitHub",
@@ -120,16 +118,16 @@
     "url": "https://status.slack.com/api/v2.0.0/current",
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
-    "status": "up",
-    "uptime": "93.77%",
-    "uptimeDay": "74.73%",
-    "uptimeWeek": "68.41%",
-    "uptimeMonth": "70.26%",
-    "uptimeYear": "86.97%",
+    "status": "degraded",
+    "uptime": "93.78%",
+    "uptimeDay": "74.72%",
+    "uptimeWeek": "68.85%",
+    "uptimeMonth": "70.57%",
+    "uptimeYear": "86.99%",
     "time": 94,
-    "timeDay": 77,
-    "timeWeek": 72,
-    "timeMonth": 79,
+    "timeDay": 64,
+    "timeWeek": 71,
+    "timeMonth": 78,
     "timeYear": 93,
     "dailyMinutesDown": {
       "2023-09-28": 72,
@@ -252,8 +250,7 @@
       "2022-11-24": 1191,
       "2022-11-14": 64,
       "2022-11-03": 62,
-      "2022-11-02": 156,
-      "2022-10-28": 75
+      "2022-11-02": 156
     }
   }
 ]
