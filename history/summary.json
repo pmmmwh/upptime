@@ -24,18 +24,19 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "98.15%",
+    "uptimeYear": "98.16%",
     "time": 230,
-    "timeDay": 139,
-    "timeWeek": 141,
-    "timeMonth": 180,
+    "timeDay": 178,
+    "timeWeek": 151,
+    "timeMonth": 181,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2024-01-08": 0,
       "2023-12-29": 16,
       "2023-12-27": 57,
       "2023-12-19": 74,
@@ -115,8 +116,7 @@
       "2023-03-07": 35,
       "2023-03-06": 144,
       "2023-03-01": 121,
-      "2023-02-27": 171,
-      "2023-02-19": 45
+      "2023-02-27": 171
     }
   },
   {
