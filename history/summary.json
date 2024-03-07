@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 112,
+    "timeDay": 69,
     "timeWeek": 79,
     "timeMonth": 85,
     "timeYear": 112,
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "98.11%",
     "time": 216,
-    "timeDay": 309,
-    "timeWeek": 188,
-    "timeMonth": 179,
+    "timeDay": 299,
+    "timeWeek": 201,
+    "timeMonth": 183,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2024-03-01": 115,
@@ -125,14 +125,14 @@
     "slug": "slack",
     "status": "up",
     "uptime": "94.94%",
-    "uptimeDay": "35.39%",
-    "uptimeWeek": "85.47%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "85.85%",
     "uptimeMonth": "80.73%",
-    "uptimeYear": "87.20%",
+    "uptimeYear": "87.32%",
     "time": 86,
-    "timeDay": 139,
+    "timeDay": 96,
     "timeWeek": 126,
-    "timeMonth": 91,
+    "timeMonth": 92,
     "timeYear": 82,
     "dailyMinutesDown": {
       "2024-03-06": 61,
@@ -257,8 +257,7 @@
       "2023-03-14": 73,
       "2023-03-13": 73,
       "2023-03-10": 677,
-      "2023-03-09": 92,
-      "2023-03-08": 183
+      "2023-03-09": 92
     }
   }
 ]
