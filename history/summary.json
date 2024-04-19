@@ -125,18 +125,19 @@
     "url": "https://status.slack.com/api/v2.0.0/current",
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
-    "status": "up",
+    "status": "degraded",
     "uptime": "94.41%",
-    "uptimeDay": "97.45%",
+    "uptimeDay": "97.44%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "65.70%",
-    "uptimeYear": "85.18%",
+    "uptimeYear": "85.19%",
     "time": 99,
-    "timeDay": 323,
-    "timeWeek": 262,
-    "timeMonth": 241,
+    "timeDay": 289,
+    "timeWeek": 256,
+    "timeMonth": 240,
     "timeYear": 99,
     "dailyMinutesDown": {
+      "2024-04-19": 0,
       "2024-04-18": 37,
       "2024-04-15": 96,
       "2024-04-10": 134,
@@ -267,8 +268,7 @@
       "2023-05-25": 942,
       "2023-05-24": 1440,
       "2023-05-23": 861,
-      "2023-05-22": 1320,
-      "2023-05-17": 33
+      "2023-05-22": 1320
     }
   }
 ]
