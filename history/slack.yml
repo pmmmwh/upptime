@@ -1,7 +1,7 @@
 url: https://status.slack.com/api/v2.0.0/current
-status: up
+status: degraded
 code: 200
-responseTime: 371
-lastUpdated: 2024-07-26T15:41:15.494Z
+responseTime: 241
+lastUpdated: 2024-07-26T20:57:48.695Z
 startTime: 2021-08-25T19:09:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
