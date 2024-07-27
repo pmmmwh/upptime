@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 112,
-    "timeDay": 181,
-    "timeWeek": 144,
+    "timeDay": 94,
+    "timeWeek": 146,
     "timeMonth": 120,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.11%",
     "uptimeYear": "97.55%",
     "time": 208,
-    "timeDay": 361,
-    "timeWeek": 270,
-    "timeMonth": 205,
+    "timeDay": 137,
+    "timeWeek": 248,
+    "timeMonth": 206,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2024-07-19": 290,
@@ -113,8 +113,7 @@
       "2023-08-17": 34,
       "2023-08-15": 257,
       "2023-08-10": 225,
-      "2023-08-09": 28,
-      "2023-07-28": 178
+      "2023-08-09": 28
     }
   },
   {
@@ -123,18 +122,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "94.98%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "97.99%",
+    "uptime": "95.39%",
+    "uptimeDay": "95.68%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "87.60%",
     "time": 134,
-    "timeDay": 332,
-    "timeWeek": 305,
-    "timeMonth": 284,
-    "timeYear": 145,
+    "timeDay": 289,
+    "timeWeek": 302,
+    "timeMonth": 288,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-07-26": 72,
+      "2024-07-26": 62,
       "2024-07-25": 140,
       "2024-07-23": 132,
       "2024-07-22": 62,
@@ -252,8 +251,7 @@
       "2023-08-10": 965,
       "2023-08-07": 26,
       "2023-08-04": 172,
-      "2023-08-02": 445,
-      "2023-07-28": 173
+      "2023-08-02": 445
     }
   }
 ]
