@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 117,
-    "timeWeek": 92,
-    "timeMonth": 116,
+    "timeDay": 135,
+    "timeWeek": 101,
+    "timeMonth": 117,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-05-01": 35
@@ -26,14 +26,14 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "93.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "97.98%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "97.91%",
     "time": 198,
-    "timeDay": 203,
-    "timeWeek": 168,
-    "timeMonth": 157,
+    "timeDay": 218,
+    "timeWeek": 173,
+    "timeMonth": 159,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2025-02-06": 94,
@@ -97,8 +97,7 @@
       "2024-03-01": 115,
       "2024-02-29": 116,
       "2024-02-26": 42,
-      "2024-02-12": 342,
-      "2024-02-09": 17
+      "2024-02-12": 342
     }
   },
   {
@@ -108,15 +107,15 @@
     "slug": "slack",
     "status": "up",
     "uptime": "95.84%",
-    "uptimeDay": "84.23%",
+    "uptimeDay": "89.73%",
     "uptimeWeek": "71.58%",
-    "uptimeMonth": "63.26%",
-    "uptimeYear": "85.78%",
-    "time": 218,
-    "timeDay": 240,
-    "timeWeek": 285,
-    "timeMonth": 268,
-    "timeYear": 257,
+    "uptimeMonth": "65.33%",
+    "uptimeYear": "85.82%",
+    "time": 219,
+    "timeDay": 276,
+    "timeWeek": 294,
+    "timeMonth": 272,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2025-02-07": 148,
       "2025-02-06": 183,
@@ -235,8 +234,7 @@
       "2024-02-22": 890,
       "2024-02-12": 1052,
       "2024-02-11": 1440,
-      "2024-02-10": 1440,
-      "2024-02-09": 1440
+      "2024-02-10": 1440
     }
   }
 ]
