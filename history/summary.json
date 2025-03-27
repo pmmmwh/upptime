@@ -26,9 +26,9 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "97.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "97.69%",
     "time": 205,
     "timeDay": 190,
@@ -36,7 +36,6 @@
     "timeMonth": 243,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-03-26": 8,
       "2025-03-21": 307,
       "2025-03-20": 48,
       "2025-03-19": 64,
@@ -126,7 +125,7 @@
     "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.38%",
-    "uptimeMonth": "95.32%",
+    "uptimeMonth": "95.42%",
     "uptimeYear": "87.57%",
     "time": 247,
     "timeDay": 428,
@@ -241,8 +240,7 @@
       "2024-04-01": 23,
       "2024-03-31": 322,
       "2024-03-29": 156,
-      "2024-03-28": 341,
-      "2024-03-27": 439
+      "2024-03-28": 341
     }
   }
 ]
