@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 78,
+    "timeDay": 84,
     "timeWeek": 87,
     "timeMonth": 141,
     "timeYear": 115,
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "97.78%",
+    "uptime": "99.29%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "97.67%",
-    "time": 205,
-    "timeDay": 213,
-    "timeWeek": 199,
+    "time": 204,
+    "timeDay": 210,
+    "timeWeek": 198,
     "timeMonth": 247,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-04-08": 8,
       "2025-04-03": 21,
       "2025-04-01": 16,
       "2025-03-31": 21,
@@ -117,8 +116,7 @@
       "2024-04-18": 24,
       "2024-04-17": 73,
       "2024-04-15": 118,
-      "2024-04-10": 132,
-      "2024-04-09": 101
+      "2024-04-10": 132
     }
   },
   {
@@ -129,13 +127,13 @@
     "status": "up",
     "uptime": "95.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "73.75%",
+    "uptimeWeek": "75.86%",
     "uptimeMonth": "77.39%",
-    "uptimeYear": "86.42%",
-    "time": 252,
-    "timeDay": 276,
-    "timeWeek": 314,
-    "timeMonth": 414,
+    "uptimeYear": "86.46%",
+    "time": 253,
+    "timeDay": 324,
+    "timeWeek": 328,
+    "timeMonth": 415,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2025-04-03": 1017,
@@ -243,8 +241,7 @@
       "2024-04-19": 572,
       "2024-04-18": 37,
       "2024-04-15": 96,
-      "2024-04-10": 134,
-      "2024-04-09": 1440
+      "2024-04-10": 134
     }
   }
 ]
