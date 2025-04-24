@@ -1,7 +1,7 @@
 url: https://www.githubstatus.com/api/v2/status.json
-status: down
-code: 405
-responseTime: 156
-lastUpdated: 2025-04-24T16:48:27.318Z
+status: up
+code: 200
+responseTime: 229
+lastUpdated: 2025-04-24T16:57:12.981Z
 startTime: 2021-08-25T19:08:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
