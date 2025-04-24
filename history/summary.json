@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 109,
-    "timeDay": 92,
-    "timeWeek": 108,
-    "timeMonth": 106,
+    "timeDay": 71,
+    "timeWeek": 92,
+    "timeMonth": 105,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-05-01": 35
@@ -26,14 +26,14 @@
     "slug": "git-hub",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "98.44%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "97.70%",
     "time": 211,
-    "timeDay": 173,
-    "timeWeek": 179,
-    "timeMonth": 226,
+    "timeDay": 196,
+    "timeWeek": 183,
+    "timeMonth": 225,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2025-04-23": 19,
@@ -116,8 +116,7 @@
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 386,
-      "2024-05-07": 92,
-      "2024-04-24": 369
+      "2024-05-07": 92
     }
   },
   {
@@ -132,9 +131,9 @@
     "uptimeMonth": "77.92%",
     "uptimeYear": "86.85%",
     "time": 259,
-    "timeDay": 376,
-    "timeWeek": 312,
-    "timeMonth": 311,
+    "timeDay": 163,
+    "timeWeek": 292,
+    "timeMonth": 304,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2025-04-14": 123,
