@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 74,
-    "timeWeek": 96,
+    "timeDay": 100,
+    "timeWeek": 99,
     "timeMonth": 251,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -28,12 +28,12 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.23%",
-    "uptimeMonth": "98.77%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "98.06%",
     "time": 238,
-    "timeDay": 79,
-    "timeWeek": 165,
-    "timeMonth": 207,
+    "timeDay": 204,
+    "timeWeek": 170,
+    "timeMonth": 205,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-11-28": 78,
@@ -132,14 +132,14 @@
     "slug": "slack",
     "status": "up",
     "uptime": "95.81%",
-    "uptimeDay": "58.56%",
+    "uptimeDay": "76.44%",
     "uptimeWeek": "92.75%",
-    "uptimeMonth": "96.59%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "86.82%",
     "time": 316,
-    "timeDay": 290,
-    "timeWeek": 316,
-    "timeMonth": 336,
+    "timeDay": 420,
+    "timeWeek": 341,
+    "timeMonth": 339,
     "timeYear": 317,
     "dailyMinutesDown": {
       "2025-12-03": 366,
@@ -251,8 +251,7 @@
       "2025-01-07": 1440,
       "2025-01-06": 517,
       "2024-12-11": 136,
-      "2024-12-10": 800,
-      "2024-12-04": 99
+      "2024-12-10": 800
     }
   }
 ]
