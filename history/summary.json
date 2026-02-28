@@ -124,7 +124,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "up",
-    "uptime": "96.26%",
+    "uptime": "96.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.70%",
     "uptimeMonth": "80.98%",
@@ -235,8 +235,7 @@
       "2025-03-19": 33,
       "2025-03-15": 32,
       "2025-03-14": 147,
-      "2025-03-10": 46,
-      "2025-02-28": 211
+      "2025-03-10": 46
     }
   }
 ]
