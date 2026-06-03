@@ -31,10 +31,10 @@
     "slug": "git-hub",
     "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "93.66%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "93.65%",
     "time": 224,
     "timeDay": 60,
     "timeWeek": 154,
@@ -131,7 +131,7 @@
       "2026-04-01": 829,
       "2026-05-05": 108,
       "2026-05-06": 109,
-      "2026-06-03": 0
+      "2026-06-03": 54
     }
   },
   {
