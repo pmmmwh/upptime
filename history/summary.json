@@ -29,16 +29,16 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "93.65%",
+    "uptimeDay": "94.70%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "93.64%",
     "time": 224,
-    "timeDay": 60,
-    "timeWeek": 154,
-    "timeMonth": 151,
+    "timeDay": 115,
+    "timeWeek": 162,
+    "timeMonth": 153,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2025-08-05": 149,
@@ -131,7 +131,7 @@
       "2026-04-01": 829,
       "2026-05-05": 108,
       "2026-05-06": 109,
-      "2026-06-03": 54
+      "2026-06-03": 76
     }
   },
   {
@@ -139,16 +139,16 @@
     "url": "https://status.slack.com/api/v2.0.0/current",
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.45%",
-    "uptimeDay": "96.29%",
+    "uptimeDay": "96.28%",
     "uptimeWeek": "88.90%",
     "uptimeMonth": "93.80%",
     "uptimeYear": "89.92%",
     "time": 379,
-    "timeDay": 279,
-    "timeWeek": 273,
-    "timeMonth": 260,
+    "timeDay": 256,
+    "timeWeek": 268,
+    "timeMonth": 259,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2025-06-05": 135,
@@ -257,7 +257,8 @@
       "2026-05-28": 938,
       "2026-05-27": 44,
       "2026-06-01": 83,
-      "2026-06-02": 53
+      "2026-06-02": 53,
+      "2026-06-03": 0
     }
   }
 ]
