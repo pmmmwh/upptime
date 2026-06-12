@@ -29,16 +29,16 @@
     "url": "https://www.githubstatus.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.37%",
-    "uptimeMonth": "98.04%",
-    "uptimeYear": "93.66%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "93.65%",
     "time": 220,
-    "timeDay": 110,
-    "timeWeek": 99,
-    "timeMonth": 121,
+    "timeDay": 123,
+    "timeWeek": 101,
+    "timeMonth": 122,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-09-01": 21,
@@ -130,7 +130,7 @@
       "2026-06-06": 172,
       "2026-06-07": 113,
       "2026-06-10": 81,
-      "2026-06-12": 0
+      "2026-06-12": 50
     }
   },
   {
