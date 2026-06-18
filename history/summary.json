@@ -30,7 +30,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.githubstatus.com.ico",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "97.96%",
     "uptimeWeek": "95.85%",
     "uptimeMonth": "97.09%",
@@ -136,11 +136,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "degraded",
-    "uptime": "97.73%",
+    "uptime": "97.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "76.88%",
-    "uptimeMonth": "88.99%",
-    "uptimeYear": "90.41%",
+    "uptimeMonth": "88.84%",
+    "uptimeYear": "90.40%",
     "time": 377,
     "timeDay": 100,
     "timeWeek": 244,
@@ -253,7 +253,8 @@
       "2026-06-09": 303,
       "2026-06-11": 459,
       "2026-06-10": 785,
-      "2026-06-17": 1438,
+      "2026-06-18": 64,
+      "2026-06-17": 1440,
       "2026-06-16": 431
     }
   }
