@@ -22,7 +22,8 @@
       "2026-02-20": 20,
       "2026-03-12": 27,
       "2026-04-11": 18,
-      "2026-07-05": 25
+      "2026-07-05": 25,
+      "2026-07-26": 0
     }
   },
   {
@@ -137,12 +138,12 @@
     "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.49%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "89.76%",
     "time": 369,
     "timeDay": 312,
     "timeWeek": 273,
-    "timeMonth": 279,
+    "timeMonth": 282,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2025-07-30": 1338,
