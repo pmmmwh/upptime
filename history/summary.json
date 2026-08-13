@@ -37,12 +37,12 @@
     "status": "up",
     "uptime": "98.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.37%",
+    "uptimeWeek": "98.71%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "94.05%",
     "time": 205,
     "timeDay": 92,
-    "timeWeek": 98,
+    "timeWeek": 99,
     "timeMonth": 106,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -140,17 +140,17 @@
     "url": "https://status.slack.com/api/v2.0.0/current",
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
-    "status": "up",
-    "uptime": "97.49%",
-    "uptimeDay": "100.00%",
+    "status": "degraded",
+    "uptime": "97.50%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "90.87%",
     "time": 370,
-    "timeDay": 472,
-    "timeWeek": 325,
-    "timeMonth": 306,
-    "timeYear": 389,
+    "timeDay": 350,
+    "timeWeek": 314,
+    "timeMonth": 304,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2025-08-15": 65,
       "2025-08-24": 56,
@@ -251,7 +251,8 @@
       "2026-06-26": 70,
       "2026-07-24": 152,
       "2026-07-28": 1264,
-      "2026-08-07": 85
+      "2026-08-07": 85,
+      "2026-08-13": 0
     }
   }
 ]
