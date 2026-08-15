@@ -4,15 +4,15 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.92%",
     "time": 128,
-    "timeDay": 237,
-    "timeWeek": 154,
+    "timeDay": 195,
+    "timeWeek": 151,
     "timeMonth": 124,
     "timeYear": 132,
     "dailyMinutesDown": {
@@ -27,7 +27,7 @@
       "2026-08-04": 57,
       "2026-08-05": 130,
       "2026-08-13": 80,
-      "2026-08-15": 0
+      "2026-08-15": 18
     }
   },
   {
@@ -142,11 +142,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.slack.com.ico",
     "slug": "slack",
     "status": "degraded",
-    "uptime": "97.41%",
+    "uptime": "97.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "75.79%",
-    "uptimeMonth": "91.00%",
-    "uptimeYear": "90.42%",
+    "uptimeWeek": "75.62%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "90.41%",
     "time": 369,
     "timeDay": 207,
     "timeWeek": 316,
@@ -252,7 +252,7 @@
       "2026-07-24": 152,
       "2026-07-28": 1264,
       "2026-08-07": 85,
-      "2026-08-15": 883,
+      "2026-08-15": 900,
       "2026-08-14": 1440,
       "2026-08-13": 118
     }
